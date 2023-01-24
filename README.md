@@ -153,9 +153,8 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Authors
-Mentesinot Tegegn - [Github](https://github.com/mentesinot)   
-Joy Wanjiru- [Github](https://github.com/Joy879) / 
+## Authors  
+Umar Tukue- [Github](https://github.com/UmarMTukur) / 
 
 ## License
 Public Domain. No copy write protection. 
